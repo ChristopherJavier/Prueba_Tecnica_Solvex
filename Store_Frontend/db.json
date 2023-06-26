@@ -1,0 +1,79 @@
+{
+	"Users": [
+		{
+			"id": 1,
+			"email": "example1@example.com",
+			"password": "120394"
+		}
+	],
+	"Products": [
+		{
+			"id": "1",
+			"name": "Salami Induveca",
+			"description": "Salami Super Especial Induveca",
+			"price": [
+				{
+					"color": "blue",
+					"value": 100,
+					"show": true
+				},
+				{
+					"color": "Green",
+					"value": 200,
+					"show": false
+				}
+			]
+		},
+		{
+			"id": "2",
+			"name": "Mantequilla",
+			"description": "Mantequilla",
+			"price": [
+				{
+					"color": "blue",
+					"value": 10,
+					"show": true
+				},
+				{
+					"color": "Green",
+					"value": 20,
+					"show": false
+				}
+			]
+		},
+		{
+			"id": "3",
+			"name": "Pan de agua",
+			"description": "Pan de agua",
+			"price": [
+				{
+					"color": "blue",
+					"value": 7,
+					"show": true
+				},
+				{
+					"color": "green",
+					"value": 5,
+					"show": false
+				}
+			]
+		},
+		{
+			"id": "4",
+			"name": "Salami Induveca",
+			"description": "Salami Super Especial Induveca",
+			"price": [
+				{
+					"color": "blue",
+					"value": 100,
+					"show": true
+				},
+				{
+					"color": "Green",
+					"value": 200,
+					"show": false
+				}
+			]
+		}
+	]
+}
